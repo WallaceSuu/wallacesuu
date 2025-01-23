@@ -17,11 +17,7 @@ In my free time I like: </br>
 🎵 reviewing music </br>
 </ul>
 Here are some languages that I write in
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=js,html,css,wasm)" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 <!--
