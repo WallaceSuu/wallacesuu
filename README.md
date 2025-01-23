@@ -1,23 +1,27 @@
-## Hi there 👋 I'm Wallace Su
-------------------------------------------------------------------------------------------------
-I'm currently a 3rd year student studying Computer Engineering at Queen's University at Kingston. 
-</br>
-</br>
-I'm interested in full stack-development and data-science
-</br>
-</br>
-In my free time I like: </br>
-<ul>
-🏋️ lifting weights </br>
+<h1>Hi there, 👋 I'm Wallace Su
+</h1>
+<a>
+  I'm currently a 3rd year student studying Computer Engineering at Queen's University at Kingston. 
   </br>
-🏀 playing basketball (go Raptors) </br>
   </br>
-⛷️ skiing </br>
+  I'm interested in <code>full stack-development</code> and <code>data-science</code>
   </br>
-🎵 reviewing music </br>
-</ul>
-Here are some languages that I write in
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  </br>
+  In my free time I like: </br>
+  </br>
+  <ul>
+    <li>🏋️ lifting weights </li>
+    <li>🏀 playing basketball (go Raptors)</li>
+    <li>⛷️ skiing</li>
+    <li>🎵 reviewing music</li>
+  </ul>
+  <h3>Here are some tools and languages I'm familar with:</h3>
+  
+  [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,py,c,cpp,gcp,github,java,mongodb,mysql,vscode)](https://skillicons.dev)
+
+  </br>
+  Feel free to contact me via email if you have any questions! 😊
+</a>
 
 
 <!--
