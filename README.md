@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'm Wallace Su
+------------------------------------------------------------------------------------------------
+I'm currently a 3rd year student studying Computer Engineering at Queen's University at Kingston. 
+I'm interested in full stack-development and data-science
+In my free time I like to 
+
 
 <!--
 **WallaceSuu/wallacesuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
