@@ -2,11 +2,11 @@
 ------------------------------------------------------------------------------------------------
 I'm currently a 3rd year student studying Computer Engineering at Queen's University at Kingston. 
 I'm interested in full stack-development and data-science
-In my free time I like: 
-🏋️ lifting weights 
-🏀 playing basketball (go Raptors)
-⛷️ skiing
-🎵 reviewing music
+In my free time I like: </br>
+🏋️ lifting weights </br>
+🏀 playing basketball (go Raptors) </br>
+⛷️ skiing </br>
+🎵 reviewing music </br>
 
 
 <!--
