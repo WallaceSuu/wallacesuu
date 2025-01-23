@@ -7,12 +7,13 @@
   I'm interested in <code>full stack-development</code> and <code>data-science</code>
   </br>
   </br>
-  In my free time I like: </br>
+  Some hobbies I enjoy include: </br>
   </br>
   <ul>
     <li>🏋️ lifting weights </li>
     <li>🏀 playing basketball (go Raptors)</li>
     <li>⛷️ skiing</li>
+    <li>👕 fashion</li>
     <li>🎵 reviewing music</li>
   </ul>
   <h3>Here are some tools and languages I'm familar with:</h3>
