@@ -1,4 +1,4 @@
-<h1>Hi there, 👋 I'm Wallace Su
+<h1>Hey, I'm Wallace 👋
 </h1>
 <a>
   I'm currently a 3rd year student studying Computer Engineering at Queen's University at Kingston. 
