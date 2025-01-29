@@ -13,7 +13,7 @@
     <li>🏋️ lifting weights </li>
     <li>🏀 playing basketball (go Raptors)</li>
     <li>⛷️ skiing</li>
-    <li>👕 fashion</li>
+    <li>👕 clothing</li>
     <li>🎵 reviewing music</li>
   </ul>
   <h3>Here are some tools and languages I'm familar with:</h3>
