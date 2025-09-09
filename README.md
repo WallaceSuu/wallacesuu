@@ -1,7 +1,7 @@
 <h1>Hey, I'm Wallace 👋
 </h1>
 <a>
-  I'm currently a 3rd year student studying Computer Engineering at Queen's University at Kingston. 
+  I'm currently a 4th year student studying Computer Engineering at Queen's University at Kingston. 
   </br>
   </br>
   I'm interested in <code>full stack-development</code> and <code>data-science</code>
