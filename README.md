@@ -7,15 +7,6 @@
   I'm interested in <code>full stack-development</code> and <code>data-science</code>
   </br>
   </br>
-  Some hobbies I enjoy include: </br>
-  </br>
-  <ul>
-    <li>🏋️ lifting weights </li>
-    <li>🏀 playing basketball (go Raptors)</li>
-    <li>⛷️ skiing</li>
-    <li>👕 clothing</li>
-    <li>🎵 reviewing music</li>
-  </ul>
   <h3>Here are some tools and languages I'm familar with:</h3>
   
   [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,py,c,cpp,gcp,github,java,mongodb,mysql,vscode)](https://skillicons.dev)
