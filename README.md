@@ -4,7 +4,7 @@
   I'm currently a 4th year student studying Computer Engineering at Queen's University at Kingston. 
   </br>
   </br>
-  I'm interested in <code>full stack-development</code> and <code>data-science</code>
+  I'm interested in <code>full stack-development</code>, <code>data science</code>, and <code>AI</code> 
   </br>
   </br>
   <h3>Here are some tools and languages I'm familar with:</h3>
