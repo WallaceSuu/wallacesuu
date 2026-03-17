@@ -26,8 +26,5 @@
   Feel free to contact me via email if you have any questions! 😊
 </a>
 
-![Profile views](https://komarev.com/ghpvc/?username=wallacesuu&color=lightgrey)
 
-### Todoist Stats
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
+![Profile views](https://komarev.com/ghpvc/?username=wallacesuu&color=lightgrey)
