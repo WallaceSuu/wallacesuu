@@ -1,3 +1,14 @@
+```
+ __  __          ___    ___             
+/\ \/\ \        /\_ \  /\_ \            
+\ \ \_\ \     __\//\ \ \//\ \     ___   
+ \ \  _  \  /'__`\\ \ \  \ \ \   / __`\ 
+  \ \ \ \ \/\  __/ \_\ \_ \_\ \_/\ \L\ \
+   \ \_\ \_\ \____\/\____\/\____\ \____/
+    \/_/\/_/\/____/\/____/\/____/\/___/ 
+                                        
+                                        
+```
 <h1>Hey, I'm Wallace 👋
 </h1>
 <a>
@@ -15,18 +26,8 @@
   Feel free to contact me via email if you have any questions! 😊
 </a>
 
+![Profile views](https://komarev.com/ghpvc/?username=wallacesuu&color=lightgrey)
 
-<!--
-**WallaceSuu/wallacesuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Todoist Stats
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
