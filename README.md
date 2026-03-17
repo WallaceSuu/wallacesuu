@@ -26,5 +26,6 @@
   Feel free to contact me via email if you have any questions! 😊
 </a>
 
+<br/><br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=wallacesuu&color=lightgrey)
